@@ -1,0 +1,3 @@
+Add new text file
+Just to test the tracked files 
+using git list of tracked files
