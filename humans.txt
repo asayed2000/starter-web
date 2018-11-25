@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ahmed Sayed		asayed2000@gmail.com	@heromedo
 
 # THANKS
 
