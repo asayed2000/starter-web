@@ -8,6 +8,10 @@ This Example is to show diff parts of the git repo and various commands
 
 ## Purpose
 
+As stated above, it's purpose
+
 ## Deployment
+
+This is to Have the deployment
 
 ## How To Contribute
