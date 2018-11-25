@@ -15,3 +15,8 @@ As stated above, it's purpose
 This is to Have the deployment
 
 ## How To Contribute
+
+
+### Copyright
+
+2014 Git.Training.
