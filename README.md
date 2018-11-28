@@ -3,6 +3,7 @@
 That's a simple website project for showing how to use Git and github
 Adding a paragraph for rebasing,
 More changes from myfeature branch
+Update for fix after stashing
 
 ## Introduction
 
